@@ -1,6 +1,6 @@
 # Factory Pattern
 
-The Factory Pattern is indeed a **creational design pattern**. It provides an interface for creating objects in a super class, but allows subclasses to alter the type of objects that will be created. This pattern is particularly useful for creating objects based on requirements that can arise at runtime.
+The Factory Pattern is a **creational design pattern**. It provides an interface for creating objects in a super class, but allows subclasses to alter the type of objects that will be created. This pattern is particularly useful for creating objects based on requirements that can arise at runtime.
 
 ## Use Case: Document Operations
 
