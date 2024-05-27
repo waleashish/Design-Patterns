@@ -1,7 +1,7 @@
 package creational.builderPattern.core;
 
 /**
- * Thslass represents a query object that contains information used to search a user.
+ * This class represents a query object that contains information used to search a user.
  * 
  * @author Ashish Wale
  */
